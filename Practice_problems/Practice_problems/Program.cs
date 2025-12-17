@@ -48,19 +48,20 @@ public class Program
         //for TrangleArea
         //TriangleArea t = new TriangleArea();
 
-       // BasicCalculator b = new BasicCalculator();
+        // BasicCalculator b = new BasicCalculator();
 
-       // HeightConverter h = new HeightConverter();
+        // HeightConverter h = new HeightConverter();
 
-       // CourseDiscountInput c = new CourseDiscountInput();
+        // CourseDiscountInput c = new CourseDiscountInput();
 
         //ProfitAndLossFixed p=new ProfitAndLossFixed();
 
         //PensDistribution pen = new PensDistribution();
 
-        CourseDiscountFixed pen2 = new CourseDiscountFixed();
+        // CourseDiscountFixed pen2 = new CourseDiscountFixed();
 
-        //EarthVolume e = new EarthVolume();
+        EarthVolume e = new EarthVolume();
+
 
 
     }
