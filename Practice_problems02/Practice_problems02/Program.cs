@@ -1,9 +1,43 @@
 ﻿
 
-//RemainderAndQuat rem = new RemainderAndQuat();
+using System;
 
-//IntOperation intOperation = new IntOperation();
+namespace Practice_problems02
+{
+    public class Program
+    {
+        private static void Main()
 
-DoubleOpt doubleOpt = new DoubleOpt();
+        {
 
-Console.ReadKey();
+            //RemainderAndQuat rem = new RemainderAndQuat();
+
+            //IntOperation intOperation = new IntOperation();
+
+            //DoubleOpt doubleOpt = new DoubleOpt();
+
+            //TemperatureCtoF.Run();
+
+            //TemperatureFtoC.Run();
+
+            //TotalIncome.Run();
+
+            //SwapNumbers.Run();
+
+            //TripSummary.Run();
+
+            //AthleteRounds.Run();
+
+            //ChocolateDivision.Run();
+
+            //SimpleInterest.Run();
+
+            PoundsToKg.Run();
+
+
+
+            Console.ReadKey();
+        }  
+    }
+}
+
