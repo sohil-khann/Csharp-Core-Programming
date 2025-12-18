@@ -3,7 +3,7 @@
 *.slnx
 *.vs
 *.csproj
-
+*.gitignore
 # Log file
 *.log
 
