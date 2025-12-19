@@ -1,14 +1,14 @@
-﻿# 🌉 BridgeLabz Training Program - Core Programming
+﻿#  BridgeLabz Training Program - Core Programming
 
 Welcome to the official repository for **BridgeLabz .NET Fullstack Training**. This repository documents a comprehensive learning journey through Core C# programming fundamentals, structured across three progressive difficulty levels.
 
-> 📌 **Status**: Active Development  
-> 🎯 **Target Framework**: .NET 10.0  
-> 🔧 **IDE**: Visual Studio 2022+  
+>  **Status**: Active Development  
+>  **Target Framework**: .NET 10.0  
+>  **IDE**: Visual Studio 2022+  
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 This repository is organized into three progressive levels, each building upon fundamental programming concepts:
 
@@ -22,7 +22,7 @@ CoreProgramming/
 
 ---
 
-## 🚀 Technology Stack
+##  Technology Stack
 
 - **C# 12** - Modern .NET with latest language features
 - **.NET 10.0** - Latest framework with enhanced performance
@@ -33,9 +33,9 @@ CoreProgramming/
 
 ---
 
-## 📚 Learning Progression
+##  Learning Progression
 
-### 🔹 Level 01 - Fundamental Programming Concepts
+###  Level 01 - Fundamental Programming Concepts
 **Focus**: Basic syntax, control structures, input/output, and simple algorithms
 
 #### Core Problems Solved:
@@ -58,7 +58,7 @@ CoreProgramming/
 
 ---
 
-### 🔹 Level 02 - Intermediate Problem Solving
+###  Level 02 - Intermediate Problem Solving
 **Focus**: Real-world applications, mathematical algorithms, and enhanced logic
 
 #### Core Problems Solved:
@@ -80,7 +80,7 @@ CoreProgramming/
 
 ---
 
-### 🔹 Level 03 - Advanced Algorithms & Mathematical Concepts
+###  Level 03 - Advanced Algorithms & Mathematical Concepts
 **Focus**: Complex mathematical algorithms, number theory, and advanced programming patterns
 
 #### Core Problems Solved:
@@ -100,7 +100,7 @@ CoreProgramming/
 
 ---
 
-## 🛠️ Code Quality Standards
+##  Code Quality Standards
 
 ### Architecture Patterns
 - **Static Classes**: Organized problem-solving utilities
@@ -123,7 +123,7 @@ CoreProgramming/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **.NET 10.0 SDK** 
@@ -152,7 +152,7 @@ CoreProgramming/
 
 ---
 
-## 📊 Project Statistics
+##  Project Statistics
 
 - **Total Problems**: 30+ programming exercises
 - **Lines of Code**: 500+ lines of well-documented C# code
@@ -162,20 +162,22 @@ CoreProgramming/
 
 ---
 
-## 🎯 Learning Objectives Achieved
+##  Learning Objectives Achieved
 
-✅ **Core Programming Fundamentals** - Variables, data types, operators  
-✅ **Control Structures** - Conditional statements, loops, branching  
-✅ **Input/Output Operations** - Console interaction, parsing, validation  
-✅ **Mathematical Programming** - Algorithms, number theory, sequences  
-✅ **Problem-Solving Skills** - Algorithmic thinking, optimization  
-✅ **Code Organization** - Modular design, naming conventions  
-✅ **Error Handling** - Validation, exception handling, user experience  
-✅ **Modern C# Practices** - Latest language features, safety mechanisms  
+ **Core Programming Fundamentals** - Variables, data types, operators  
+ **Core Programming Fundamentals** - Variables, data types, operators  
+ **Core Programming Fundamentals** - Variables, data types, operators  
+ **Control Structures** - Conditional statements, loops, branching  
+ **Input/Output Operations** - Console interaction, parsing, validation  
+ **Mathematical Programming** - Algorithms, number theory, sequences  
+ **Problem-Solving Skills** - Algorithmic thinking, optimization  
+ **Code Organization** - Modular design, naming conventions  
+ **Error Handling** - Validation, exception handling, user experience  
+ **Modern C# Practices** - Latest language features, safety mechanisms  
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - **Object-Oriented Programming** - Classes, inheritance, polymorphism
 - **Data Structures** - Arrays, lists, dictionaries, custom collections
@@ -186,7 +188,7 @@ CoreProgramming/
 
 ---
 
-## 📞 Support & Contributing
+##  Support & Contributing
 
 This is a personal learning repository documenting progress through BridgeLabz training program. The code represents foundational programming concepts and serves as a reference for C# beginners and intermediate developers.
 
