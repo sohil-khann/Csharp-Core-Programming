@@ -19,7 +19,7 @@ CoreProgramming/
 └── .gitignore         # Git ignore configuration
 ```
 
----
+```
 ## Branch Structure
 CoreProgramming/
 ├── arthmatic-operations         
@@ -27,7 +27,7 @@ CoreProgramming/
 ├── main          
 ├── arrays
 ├── practice-problems
-
+```
 ##  structure of control-flows/
 CoreProgramming/
 ├── Level_01/          # Fundamental Programming Concepts
@@ -206,4 +206,5 @@ This is a personal learning repository documenting progress through BridgeLabz t
 ---
 
 *Last Updated: December 2025*  
+
 Author: Sohil khan
