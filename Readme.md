@@ -5,6 +5,7 @@ Welcome to the official repository for **BridgeLabz .NET Fullstack Training**. T
 >  **Status**: Active Development  
 >  **Target Framework**: .NET 10.0  
 >  **IDE**: Visual Studio 2022+  
+>  **Author: **: Sohil khan
 
 ---
 
@@ -19,6 +20,19 @@ CoreProgramming/
 ```
 
 ---
+## Branch Structure
+CoreProgramming/
+├── arthmatic-operation         
+├── control-flows          
+├── main          
+├── arrays
+
+##  structure of control-flows/
+CoreProgramming/
+├── Level_01/          # Fundamental Programming Concepts
+├── Level_02/          # Intermediate Problem Solving  
+├── Level_03/          # Advanced Algorithms & Mathematical Concepts
+└── .gitignore         # Git ignore configuration
 
 ##  Technology Stack
 
@@ -31,10 +45,71 @@ CoreProgramming/
 
 ---
 
+
 ##  Learning Progression
 
+###  Level 01 - Fundamental Programming Concepts
+**Focus**: Basic syntax, control structures, input/output, and simple algorithms
+
+#### Core Problems Solved:
+- **Basic Comparisons**: Smallest/Largest of three numbers
+- **Mathematical Operations**: Sum of natural numbers, factorial calculations
+- **Control Flow**: Voting eligibility, number classification (positive/negative/zero)
+- **Seasonal Logic**: Spring season determination
+- **Looping Constructs**: Countdown sequences (while & for loops)
+- **Summation Algorithms**: Sum until zero/non-positive, natural number sums
+- **Mathematical Series**: Factorial computation (iterative approaches)
+- **Number Theory**: Odd/even number ranges, divisibility checks
+- **Practical Applications**: Bonus calculations, multiplication tables
+
+**Key Learning Outcomes**:
+- Master basic C# syntax and data types
+- Understand conditional statements (if-else, switch)
+- Implement various loop structures (while, for, do-while)
+- Handle user input validation and error handling
+- Apply mathematical concepts through programming
+
+---
+
+###  Level 02 - Intermediate Problem Solving
 **Focus**: Real-world applications, mathematical algorithms, and enhanced logic
 
+#### Core Problems Solved:
+- **Date/Time Logic**: Leap year determination with multiple conditions
+- **Academic Applications**: Grade calculation with nested conditions
+- **Number Theory**: Prime number validation, factor identification
+- **Classic Programming**: FizzBuzz implementation (both loop types)
+- **Health Applications**: BMI (Body Mass Index) calculator with classification
+- **Social Logic**: Friend pairing algorithms
+- **Mathematical Concepts**: Greatest common factors, power calculations
+- **Sequence Generation**: Factors and multiples below thresholds
+
+**Key Learning Outcomes**:
+- Implement complex conditional logic
+- Apply mathematical algorithms efficiently
+- Handle floating-point arithmetic and precision
+- Create user-friendly console applications
+- Optimize algorithms using mathematical insights (e.g., √n for prime checking)
+
+---
+
+###  Level 03 - Advanced Algorithms & Mathematical Concepts
+**Focus**: Complex mathematical algorithms, number theory, and advanced programming patterns
+
+#### Core Problems Solved:
+- **Number Theory**: Armstrong number validation (3-digit cubes)
+- **Digit Manipulation**: Counting digits in integers
+- **Mathematical Special Numbers**: Harshad (Niven) numbers
+- **Advanced Number Theory**: Abundant number identification
+- **Date/Time Algorithms**: Day of week calculation using Zeller's congruence
+- **Scientific Calculator**: Basic arithmetic operations with input validation
+
+**Key Learning Outcomes**:
+- Implement complex mathematical algorithms
+- Understand number theory concepts through programming
+- Apply modular arithmetic and mathematical formulas
+- Create robust input validation systems
+- Develop problem-solving skills for abstract mathematical concepts
 ---
 
 ##  Code Quality Standards
@@ -130,4 +205,4 @@ This is a personal learning repository documenting progress through BridgeLabz t
 ---
 
 *Last Updated: December 2025*  
-*Training Program: BridgeLabz .NET Fullstack *
+Author: Sohil khan
