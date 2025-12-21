@@ -1,0 +1,15 @@
+D:\Acess meditech\CoreProgramming\Level_01\bin\Debug\net10.0\Level_01.exe
+D:\Acess meditech\CoreProgramming\Level_01\bin\Debug\net10.0\Level_01.deps.json
+D:\Acess meditech\CoreProgramming\Level_01\bin\Debug\net10.0\Level_01.runtimeconfig.json
+D:\Acess meditech\CoreProgramming\Level_01\bin\Debug\net10.0\Level_01.dll
+D:\Acess meditech\CoreProgramming\Level_01\bin\Debug\net10.0\Level_01.pdb
+D:\Acess meditech\CoreProgramming\Level_01\obj\Debug\net10.0\Level_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\CoreProgramming\Level_01\obj\Debug\net10.0\Level_01.AssemblyInfoInputs.cache
+D:\Acess meditech\CoreProgramming\Level_01\obj\Debug\net10.0\Level_01.AssemblyInfo.cs
+D:\Acess meditech\CoreProgramming\Level_01\obj\Debug\net10.0\Level_01.csproj.CoreCompileInputs.cache
+D:\Acess meditech\CoreProgramming\Level_01\obj\Debug\net10.0\Level_01.sourcelink.json
+D:\Acess meditech\CoreProgramming\Level_01\obj\Debug\net10.0\Level_01.dll
+D:\Acess meditech\CoreProgramming\Level_01\obj\Debug\net10.0\refint\Level_01.dll
+D:\Acess meditech\CoreProgramming\Level_01\obj\Debug\net10.0\Level_01.pdb
+D:\Acess meditech\CoreProgramming\Level_01\obj\Debug\net10.0\Level_01.genruntimeconfig.cache
+D:\Acess meditech\CoreProgramming\Level_01\obj\Debug\net10.0\ref\Level_01.dll
