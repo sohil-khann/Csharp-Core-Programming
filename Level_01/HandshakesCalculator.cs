@@ -6,7 +6,6 @@ class HandshakesCalculator
 {
     public static void CalculateHandshakes()
     {
-        Console.WriteLine("\n--- Problem 2 & 3: Maximum Handshakes ---");
         
         Console.Write("Enter the number of students: ");
         int numberOfStudents = int.Parse(Console.ReadLine());
