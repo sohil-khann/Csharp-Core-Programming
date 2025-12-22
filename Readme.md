@@ -5,7 +5,7 @@ Welcome to the official repository for **BridgeLabz .NET Fullstack Training**. T
 >  **Status**: Active Development  
 >  **Target Framework**: .NET 10.0  
 >  **IDE**: Visual Studio 2022+  
->  **Author: **: Sohil khan
+>  Author: : Sohil khan
 
 ---
 
@@ -44,6 +44,19 @@ CoreProgramming/
 ├── Level_02/          # Intermediate Problem Solving  
 └── .gitignore         # Git ignore configuration
 
+
+##  structure of strings/
+CoreProgramming/
+├── Level_01/          # Fundamental Programming Concepts
+├── Level_02/          # Intermediate Problem Solving  
+└── .gitignore         # Git ignore configuration
+
+
+##  structure of methods/
+CoreProgramming/
+├── Level_01/          # Fundamental Programming Concepts
+├── Level_02/          # Intermediate Problem Solving  
+└── .gitignore         # Git ignore configuration
 =======
 ```
 ##  Technology Stack
