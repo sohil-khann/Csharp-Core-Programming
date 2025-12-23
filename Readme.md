@@ -27,6 +27,8 @@ CoreProgramming/
 ├── main          
 ├── arrays
 ├── strings
+├── methods
+├── built-in-functions
 ├── practice-problems
 ```
 ```
@@ -55,7 +57,13 @@ CoreProgramming/
 ##  structure of methods/
 CoreProgramming/
 ├── Level_01/          # Fundamental Programming Concepts
-├── Level_02/          # Intermediate Problem Solving  
+├── Level_02/          # Intermediate Problem Solving 
+├── Level_03/          # Advanced Problem Solving 
+└── .gitignore         # Git ignore configuration
+
+##  structure of built-in-functions/
+CoreProgramming/
+├── Level_01/          # Fundamental Programming Concepts
 └── .gitignore         # Git ignore configuration
 =======
 ```
