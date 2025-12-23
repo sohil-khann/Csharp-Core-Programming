@@ -1,0 +1,5 @@
+/*4. Fibonacci Sequence Generator:
+Write a program that generates the Fibonacci sequence up to a specified number of terms
+entered by the user.
+ Organize the code by creating a function that calculates and prints the Fibonacci
+sequence.*/using System;internal static class Fibonacci{    private static void GenerateFibonacci(int terms) //for generating fibonacci sequence    {        int a = 0, b = 1, nextTerm;        Console.WriteLine("Fibonacci Sequence:");        for (int i = 1; i <= terms; i++)        {            Console.Write(a + " ");            nextTerm = a + b;            a = b;            b = nextTerm;        }        Console.WriteLine();    }    public static void Main()//entry point    {        Console.Write("Enter the number : ");        int numTerms = int.Parse(Console.ReadLine());        GenerateFibonacci(numTerms);    }}
